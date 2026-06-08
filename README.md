@@ -11,5 +11,5 @@ Timestomping occurs when threat actors manipulate NTFS file metadata (specifical
 ---
 
 ## Usage
-python timestomp-identifier.py -f sample-mft.bin
+python timestomp-identifier.py -f sample-mft.bin  
 python timestomp-identifier.py -f sample-mft.bin --keep-csv
